@@ -1,0 +1,15 @@
+*target/
+
+### Pycharm IDEA ###
+*.idea/
+*.iml
+
+### Python ###
+*__pycache__/
+
+
+*.git_backup
+
+### Mac OS ###
+*.DS_Store
+
